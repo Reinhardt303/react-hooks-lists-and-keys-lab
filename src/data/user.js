@@ -25,8 +25,8 @@ const user = {
       name: "Alienwares",
       about: "Etsy for aliens",
       technologies: ["React", "Redux", "Rails"],
-    },
-  ],
+    }
+  ]
 };
 
 export default user;
